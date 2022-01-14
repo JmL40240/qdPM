@@ -1,0 +1,1 @@
+<br><div class="userNoticesError"><?php echo  __('There are no departments that can be used for public tickets.') ?></div>

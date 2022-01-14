@@ -1,0 +1,1 @@
+<?php echo ajax_modal_template(__('Copy'),get_partial('copy', array('projects'=>$projects,'tickets'=>$tickets)))  ?>

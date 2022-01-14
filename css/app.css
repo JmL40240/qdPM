@@ -1,0 +1,473 @@
+body{
+  font-family: arial;
+}
+
+.navbar-inverse .navbar-brand{
+  color: white;
+  margin-left: 20px;
+}
+
+label.error, div.error { 
+  float: none; 
+  color: #b94a48; 
+  padding-left: 5px; 
+  padding-top: 5px;
+  vertical-align: top;   
+  font-size: 13px;
+}
+input.error, textarea.error{ 
+  border: 1px solid #b94a48; 
+  color: #b94a48; 
+}
+
+.form-control.error:focus{
+  border: 1px solid #b94a48;
+  color: #b94a48;  
+}
+
+#navbar-brand-logo
+{
+    
+}
+
+.header-inner #navbar-brand-logo{
+  
+} 
+
+.dd-dragel{
+  z-index: 10051;
+}
+
+.dd-empty{
+  min-height: 30px;
+}
+
+.cursor-pointer{
+  cursor:pointer;
+}
+
+.breadcrumb li{
+  vertical-align: middle;
+  padding-right: 5px;  
+  border
+}
+
+.list-group-item.filter-preview-item{
+  padding: 5px 15px;
+}
+
+.modal-scrollable {
+  overflow: auto !important;
+}
+
+
+.table-scrollable .table-attachments{
+
+}
+
+.table-scrollable .table-attachments td{
+  padding: 5px 10px;
+  font-size: 12px;
+}
+
+.table tfoot td{
+  font-weight: bold;
+}
+
+.filter-preview .panel-heading{
+  padding: 5px 5px;  
+}
+
+#goToMenuContainer {
+  padding-right: 10px;
+}
+
+#goToMenuContainer .yuimenubaritemlabel{
+  padding-right: 0px;
+}
+
+#filtersPreviewMenuBox .yuimenubaritemlabel{
+  font-size: 13px;
+}
+
+#filtersPreviewMenuBox .yuimenuitemlabel, #filtersMenuBox .yuimenuitemlabel{
+  padding: 1px 20px;
+  font-size: 13px
+}
+
+#search_menu .yuimenuitem-selected {	 
+  background-color: #fff;
+}
+
+.alert-search-result{
+  margin-bottom: 0px;
+  margin-top: 5px;
+  padding: 10px;
+}
+
+.filter-preview .fa, #goToMenuContainer .fa{
+  width: auto;
+}
+
+.ui-cluetip-header { 
+  font-size: 14px;   
+}
+
+/*project menu*/
+#projectMenuContainer {border-top: 1px solid #0b679e; margin-bottom: 15px; }
+#projectMenuBox {background: #0b679e; border-top: 1px #0b679e;}
+#projectMenuBox .yuimenubar {   border-left: 1px solid #095786; border-right: 1px solid #0d77b6; border-bottom: 1px solid #0b679e;}
+#projectMenuBox .yuimenubaritemlabel { border-style: solid; border-color: #0d77b6; border-width: 1px 0; color: white; line-height: 2.5}
+#projectMenuBox .yuimenubarnav .yuimenubaritem {border-right: solid 1px #0d77b6;}
+#projectMenuBox .yuimenubaritemlabel-selected { color:#white; background: #084e78; }
+#projectMenuBox .yuimenu .bd {background: #0b679e; border: 1px solid #0d77b6;}
+#projectMenuBox .yuimenu ul {border-color: #0d77b6}
+#projectMenuBox .yuimenuitemlabel {color: white;} 
+#projectMenuBox .yuimenuitemlabel-selected{background:#0d77b6}
+#projectMenuBox .yuimenubaritemlabel-hassubmenu {}
+
+/*projects short info*/
+
+.project-short-info{    
+  padding: 10px 0;
+  border-top: 1px solid #ddd;
+}
+
+.project-short-info td{
+  padding-right: 10px;
+  
+}
+
+.user-photo{
+  width: 50px;
+}
+
+
+.header .navbar-nav li.dropdown.user img{
+  border-radius: 0px;
+  max-width: 50px;
+  max-height: 28px;
+  width: auto;  
+}
+
+.header .navbar-nav li.dropdown .dropdown-toggle{
+  height: 45px;
+}
+
+.dropdown-menu li a{
+  padding-right: 15px;
+}
+
+.navbar-nav .open .dropdown-menu > li > a {
+  padding-right: 15px;  
+}
+
+.footer a{
+  color: white;
+}
+
+.item-description-panel{
+  border-bottom: 1px solid #ddd;
+  margin: -15px -15px 15px -15px;
+  padding: 5px 15px;
+}
+
+.table-scrollable .table-item-details-users thead th{
+  font-weight: bold;
+  
+}
+
+
+.table-scrollable .table-item-details tbody td, .table-scrollable .table-item-details tbody th, .table-scrollable .table-item-details-users tbody td{
+  white-space: normal !important;
+}
+
+.form-section{
+  font-size: 16px;
+}
+
+#dashboard-csg-box{
+  padding-bottom: 7px;
+  text-align: right;
+}
+
+div.skinsList { width: 550px;overflow: hidden;}
+div.skinsList ul {list-style: none;padding: 0;float: left;}
+div.skinsList ul li {float: left;text-align: center;padding-top: 10px; }
+
+.datetimepicker{ margin-top: 0px; }
+
+.copyright_link{
+  color: white;
+}
+
+.copyright_link:hover{
+  color: white;
+}
+
+.login .logo{
+  font-size: 18px;
+  color: white;
+}
+
+
+.logo{
+  float: left;
+  width: 150px;
+  text-align: left;
+  padding: 10px 0px 10px 25px;
+}
+
+.logo img{
+  max-width: 150px;
+}
+
+.login-page-logo{
+  margin: 0 auto;
+  margin-top: 60px;
+  padding: 15px;
+  text-align: center;
+  color: white;
+  font-size: 18px;
+  text-shadow: 1px 1px 3px #000000;
+}
+.login-page-logo img{
+  max-width: 260px;
+}
+
+.page-sidebar-closed .logo{
+  display: none;
+}
+
+#login-page-description{
+  max-height: 250px;
+  overflow-y: auto;
+  margin-bottom: 15px;
+}
+
+
+
+.background_color_item {padding: 2px 5px;-webkit-border-radius: 4px;-moz-border-radius: 4px;border-radius: 4px;}
+
+#wiki_content{ border: 1px solid #aaaaaa; padding: 10px;}
+
+#wiki_content h1, #wiki_content h2, #wiki_content h3, #wiki_content h4, #wiki_content h5, #wiki_content h6 {
+  background: none;
+  border-bottom: 1px solid #AAA;
+  color: black;
+  font-weight: normal;
+  margin: 0px;
+  padding-bottom: 0.17em;
+  padding-top: 0.5em;
+}
+
+#wiki_content h1 {font-size: 188%;}
+#wiki_content h2 {font-size: 150%; color: black;}
+#wiki_content h3 {font-size: 132%; font-weight: bold;}
+#wiki_content h4 {font-size: 116%; font-weight: bold;}
+#wiki_content h5 {font-size: 100%; font-weight: bold;}
+#wiki_content h6 {font-size: 80%; font-weight: bold;}
+
+
+#wiki_content pre {
+  background-color: #F9F9F9;
+  border: 1px dashed #2F6FAB;
+  color: black;
+  line-height: 1.1em;
+  padding: 1em;
+  display: block;
+  font-family: monospace;
+  margin: 1em 0px;
+  white-space: pre;
+}
+
+#wiki_menu{ margin: 0px; padding: 0px;}
+
+#wiki_menu ul {
+	list-style: none;
+	margin: 0px; 
+  padding: 0px;
+}
+#wiki_menu li {
+	display: inline;
+	border: 1px solid #aaa;
+	border-bottom: none;
+	padding: 0 0 0 0;
+	margin: 0 .3em 0 0;
+	overflow: visible;
+	background: white;
+}
+
+#wiki_menu li a {
+	background-color: #fff;	
+	border: none;
+	padding: 0 .8em 0;
+	position: relative;
+	z-index: 0;
+	margin: 0;
+	text-decoration: none;
+	line-height: 1.5;
+}
+
+#wiki_search {padding: 7px 0 7px 0;}
+.wiki_description_part {border-bottom: 1px dotted #d3d3d3; padding-bottom: 3px; margin-bottom: 3px; margin-left: 10px;}
+
+#supported_wiki_format_block table td {vertical-align: top;}
+
+.wiki_content_table {margin: 5px;}
+.wiki_content_table td {padding: 2px 5px; border: 1px solid #cfcfcf; } 
+.wiki_content_table th {padding: 2px 5px; border: 1px solid #cfcfcf; background: #e5e5e5;}
+
+#page_contents {background: #f9f9f9; border: 1px solid #aaaaaa; display: none; padding: 10px 15px 10px 0;}
+#page_contents li {list-style: none; }
+#page_contents ul {margin: 0px; padding-left: 15px;}
+
+#tasksTimer {margin: 5px; padding: 3px; border: 1px solid #dadfe0; background: #f2f2f2;-moz-border-radius: 5px; border-radius: 5px;}
+#tasksTimer table td {padding-right: 7px; vertical-align: middle;}
+
+
+.loading_data {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 45px;
+  margin-left: -50%;
+  margin-top: -25px;
+  padding-top: 20px;    
+  background: url(img/ajax-loading.gif) center no-repeat;  
+}
+
+table.tableListing {text-align: left; width: 100%}
+table.tableListing tbody td {vertical-align: top; white-space: nowrap;}
+table.tableListing td.heading {white-space: normal;}
+table.tableListing.withoutPadding tbody td {padding: 0 4px; vertical-align: middle;}
+table.tableListing.withoutPadding tbody td table td {border: 0; padding: 0 1px;}
+
+#attachmentsList{width: 100%}
+/*#attachmentsList div {border: 1px dashed LightGray; background: white;  margin:3px; }
+#attachmentsList table td {padding: 3px; vertical-align: top;}*/
+
+blockquote p {
+  font-size: 12px;
+  font-style: italic;
+}
+
+.modal-header, .modal-footer{
+  cursor: pointer
+}
+
+.radio-list label{
+ padding-top: 3px; 
+}
+
+.input-group-btn{
+  vertical-align: top;
+}
+
+pre{
+  padding: 5px;
+  overflow:auto;
+  max-height: 250px;
+  position: relative;
+  background-color: #F0F0F0;
+}
+
+.hljs_code_tools{
+	position: absolute;
+    top: 0;
+    right: 0;
+    padding: 3px;	
+}
+
+#comments-table .btn{
+  margin-bottom: 2px;
+}
+
+@media (min-width: 992px) { 
+
+  /* reduced scale */
+  .page-scale-reduced {
+    font-size: 12px;
+  }
+  
+  .page-scale-reduced .table thead tr th{
+    font-size: 12px;  
+  }
+  
+  .page-scale-reduced .table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td{
+    padding: 5px;
+  }
+  
+  .page-scale-reduced .page-sidebar-menu > li > a{
+    font-size: 13px;
+  }
+  
+  .page-scale-reduced .page-sidebar-menu > li > ul.sub-menu > li > a{
+    font-size: 13px;
+  } 
+  
+  .page-scale-reduced label{
+    font-size: 13px;  
+  }
+  
+  .page-scale-reduced .form-control{
+    font-size: 13px;
+    padding: 4px 12px;
+  }
+  .page-scale-reduced .btn{
+    padding: 4px 12px;
+  }
+  
+  .page-scale-reduced .btn-xs{
+    padding: 1px 5px;
+  }
+  
+  .page-scale-reduced .form-control{
+    height: 30px;
+  }
+  
+  .page-scale-reduced textarea.form-control{
+    height: 82px;
+  }
+  
+  .page-scale-reduced .dropdown-menu{
+    font-size: 13px;
+  } 
+  
+  .page-scale-reduced .navbar-brand{
+    padding: 10px 15px;
+  }
+  
+  .page-scale-reduced .navbar-nav>li>a{
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .page-scale-reduced .navbar{
+    min-height: 40px;
+  }
+
+  .page-scale-reduced .page-title{
+    font-size: 22px;
+  }
+  
+  .page-scale-reduced .popover-title{
+    font-size: 12px;
+    padding: 4px 14px;
+  }
+  
+  .page-scale-reduced .taskEditRow input{
+    font-size: 13px;
+  }
+}
+
+.checkbox_list, .radio_list{
+    list-style: none;
+    padding:0;
+}
+
+
+
+
+

@@ -1,0 +1,8 @@
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:dbname=db_name;host=localhost'
+      profiler: false
+      username: db_username
+      password: db_password

@@ -1,0 +1,1074 @@
+Jan 13 02:44:45 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jan 15 00:38:34 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jan 15 00:38:39 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jan 15 23:39:09 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jan 16 00:27:06 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jan 16 01:04:43 symfony [err] {Doctrine_Query_Exception} Duplicate alias 'comments' in query.
+Jan 16 01:05:14 symfony [err] {Doctrine_Query_Exception} Duplicate alias 'comments' in query.
+Jan 16 01:05:35 symfony [err] {Doctrine_Query_Exception} Duplicate alias 'comments' in query.
+Jan 16 01:05:55 symfony [err] {Doctrine_Query_Exception} Duplicate alias 'comments' in query.
+Jan 16 01:07:25 symfony [err] {Doctrine_Query_Exception} Duplicate alias 'comments' in query.
+Jan 16 01:10:25 symfony [err] {Doctrine_Query_Exception} Duplicate alias 'comments' in query.
+Jan 16 01:11:29 symfony [err] {Doctrine_Exception} Couldn't find class comments
+Jan 16 01:11:34 symfony [err] {Doctrine_Exception} Couldn't find class comments
+Jan 16 01:30:58 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jan 16 01:31:02 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jan 16 01:31:14 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jan 16 01:31:57 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jan 16 01:32:02 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jun 07 00:47:12 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jun 07 00:47:42 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jun 07 00:49:25 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jun 07 00:50:24 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jun 07 00:50:59 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jun 07 00:51:54 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Jun 07 00:51:57 symfony [err] {sfError404Exception} Action "template/css" does not exist.
+Dec 22 09:38:18 symfony [err] {sfConfigurationException} The component does not exist: "contacts", "filters".
+Dec 22 09:39:02 symfony [err] {sfConfigurationException} The component does not exist: "contacts", "filters".
+Dec 26 21:06:45 symfony [err] {sfError404Exception} Action "EMBEDDED_IMAGE_PATH50004_69621f3251175ad9e4f76aac82fdf99d10e7b2d01177b16b2e6074f74e09d464/index" does not exist.
+Dec 26 21:06:45 symfony [err] {sfError404Exception} Action "EMBEDDED_IMAGE_PATH50004_0144d5da5d488dc55422230383c80280a413cff28b3ed090a878ce44fa50e734/index" does not exist.
+Dec 26 21:06:45 symfony [err] {sfError404Exception} Action "EMBEDDED_IMAGE_PATH50004_23ee65095f63efd1ca62f94971eb394d2a2d49e8d660ea8a77b9a16c0417e288/index" does not exist.
+Dec 26 21:06:45 symfony [err] {sfError404Exception} Action "EMBEDDED_IMAGE_PATH50004_6d6284b74419b3c0fab329dc4edd583397b0ef80e037c6dea5df52da7795c5cd/index" does not exist.
+Dec 26 21:06:45 symfony [err] {sfError404Exception} Action "EMBEDDED_IMAGE_PATH50004_178884fab468a45327e7c84a6c68d1fccea6b5402fd30bea86d39688e09627e7/index" does not exist.
+Dec 26 21:06:45 symfony [err] {sfError404Exception} Action "EMBEDDED_IMAGE_PATH50004_95334f06a027f3ec60cd69366fc116cc8c48d552bec2e3ea108060b4e9b3b3f1/index" does not exist.
+Jan 06 10:55:48 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 06 10:57:48 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 06 11:02:33 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 06 11:03:44 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 06 13:56:20 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 06 14:01:03 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 06 14:01:27 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 06 14:02:03 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 06 14:05:24 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 06 14:05:34 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 06 14:05:35 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 06 14:27:45 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 06 15:18:01 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 08 21:02:25 symfony [err] {sfError404Exception} Action "extensions/qdpm" does not exist.
+Jan 08 21:28:20 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/adzs/cookie.js" (/).
+Jan 08 21:30:42 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/js/cookie.js" (/).
+Jan 11 10:50:48 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 11 10:54:35 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 11 10:56:48 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 11 10:58:07 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 11 10:59:45 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 11 11:01:37 symfony [err] {Doctrine_Query_Exception} You must pass at least one parameter when using an IN() condition.
+Jan 11 12:28:00 symfony [err] {Doctrine_Query_Exception} Unknown column worked_hours
+Jan 11 12:28:14 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 11 12:29:13 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "worked_hours" on "Tasks"
+Jan 11 12:30:56 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "worked_hours" on "Tasks"
+Jan 11 12:31:17 symfony [err] {Doctrine_Query_Exception} Unknown column worked_hours
+Jan 11 12:31:27 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 11 12:31:49 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 11 12:31:50 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 11 12:38:23 symfony [err] {Doctrine_Exception} Couldn't find class tc
+Jan 11 12:39:04 symfony [err] {Doctrine_Table_Exception} Unknown relation alias Tasks
+Jan 11 12:39:19 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "worked_hours" on "Tasks"
+Jan 12 09:50:15 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 09:50:32 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 09:50:33 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 09:51:24 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "worked_hours" on "Tasks"
+Jan 12 09:51:39 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "worked_hours" on "Tasks"
+Jan 12 09:53:58 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 09:54:13 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 09:54:19 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 09:54:45 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:09:02 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:09:44 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:10:04 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:10:05 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:10:06 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:12:40 symfony [err] {Doctrine_Exception} Couldn't find class 	
+		from 	
+			tasks t
+			left join tasks_comments tc on t.id = tc.tasks_id
+			left join tasks_priority tp on tp.id = t.tasks_priority_id
+			left join tasks_status ts on ts.id = t.tasks_status_id
+			left join tasks_labels tl on tl.id = t.tasks_label_id
+			left join tasks_types tt on tt.id = t.tasks_type_id
+			left join users u on u.id = tc.created_by	
+		where
+			1 = 1
+	 and t.assigned_to like '%103%'  and date_format(t.start_date,"%Y-%m-%d")>="2021-12-01" 
+Jan 12 10:14:32 symfony [err] {Doctrine_Exception} Couldn't find class tasks_comments
+Jan 12 10:28:51 symfony [err] {Doctrine_Query_Exception} Unknown column start_date
+Jan 12 10:29:18 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:30:53 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:30:54 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:30:54 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:30:54 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:30:54 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:30:55 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:30:55 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:30:55 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:12 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:12 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:12 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:13 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:13 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:13 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:13 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:13 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:14 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:14 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:14 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:14 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:14 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:15 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:15 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:15 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:16 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:31:16 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:35:04 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:35:05 symfony [err] {Doctrine_Record_UnknownPropertyException} Unknown record property / related component "<pre>
+alias : Tasks
+foreign : id
+local : tasks_id
+class : Tasks
+type : 0
+table : Object(TasksTable)
+localTable : Object(TasksCommentsTable)
+name : 
+refTable : 
+onDelete : 
+onUpdate : 
+deferred : 
+deferrable : 
+constraint : 
+equal : 
+cascade : Array
+owningSide : 
+refClassRelationAlias : 
+foreignKeyName : 
+orderBy : 
+</pre>" on "TasksComments"
+Jan 12 10:37:33 symfony [err] {Doctrine_Query_Exception} Unknown column tasks_id
+Jan 12 10:37:50 symfony [err] {Doctrine_Query_Exception} Unknown column tasks_id
+Jan 12 10:37:58 symfony [err] {Doctrine_Query_Exception} Unknown column tasks_id
+Jan 12 10:38:07 symfony [err] {Doctrine_Query_Exception} Unknown column tasks_id
+Jan 12 14:25:42 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/viewReport.php" (/).
+Jan 12 15:02:03 symfony [err] {InvalidArgumentException} Widget "event_lol" does not exist.

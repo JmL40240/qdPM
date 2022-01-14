@@ -1,0 +1,10 @@
+  
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:dbname=qdpm_extented_45;host=10.2.4.163'
+      profiler: false
+      username: SV-DSI-QDPM-DB      
+      password: "<?php echo urlencode('SV-DSI-QDPM-DB') ; ?>"      
+  

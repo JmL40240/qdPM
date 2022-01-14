@@ -1,0 +1,9 @@
+all:
+  credentials: [[public_wiki_access_full_access,projects_wiki_access_full_access,public_wiki_access_view_only,projects_wiki_access_view_only]]
+new:
+  credentials: [[public_wiki_access_full_access,projects_wiki_access_full_access]]
+edit:
+  credentials: [[public_wiki_access_full_access,projects_wiki_access_full_access]]
+delete:
+  credentials: [[public_wiki_access_full_access,projects_wiki_access_full_access]]  
+

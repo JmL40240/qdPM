@@ -1,0 +1,16 @@
+Historique des modifications du core qdPM :
+
+- Gestion des tickets ariane
+
+D:\Apache Data\core\apps\qdPMExtended\modules\tickets\templates
+_listing.php
+_filtersPreview.php
+
+D:\Apache Data\core\apps\qdPMExtended\modules\tickets\actions
+components.class.php
+
+D:\Apache Data\core\lib
+menuController.php
+
+D:\Apache Data\core\lib
+projectsMenuController.php
