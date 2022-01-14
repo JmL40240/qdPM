@@ -4,9 +4,9 @@
 
 return array(
 'doctrine' => new sfDoctrineDatabase(array (
-  'dsn' => 'mysql:dbname=qdpm_extented_45;host=10.2.4.163',
+  'dsn' => 'mysql:dbname=XXX;host=YYY',
   'profiler' => false,
-  'username' => 'SV-DSI-QDPM-DB',
-  'password' => 'SV-DSI-QDPM-DB',
+  'username' => 'AAA',
+  'password' => 'BBB',
   'name' => 'doctrine',
 )),);
